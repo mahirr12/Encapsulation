@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\CodeAc\\ConsoleApp9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA6C040-0400-4E6A-9485-D7E37D1A7213}|ConsoleApp9.csproj|c:\\users\\admin\\desktop\\codeac\\consoleapp9\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA6C040-0400-4E6A-9485-D7E37D1A7213}|ConsoleApp9.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA6C040-0400-4E6A-9485-D7E37D1A7213}|ConsoleApp9.csproj|c:\\users\\admin\\desktop\\codeac\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA6C040-0400-4E6A-9485-D7E37D1A7213}|ConsoleApp9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA6C040-0400-4E6A-9485-D7E37D1A7213}|ConsoleApp9.csproj|c:\\users\\admin\\desktop\\codeac\\consoleapp9\\classes\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA6C040-0400-4E6A-9485-D7E37D1A7213}|ConsoleApp9.csproj|solutionrelative:classes\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\ConsoleApp9\\classes\\Gallery.cs",
+              "RelativeDocumentMoniker": "classes\\Gallery.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\ConsoleApp9\\classes\\Gallery.cs",
+              "RelativeToolTip": "classes\\Gallery.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:27:10.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\ConsoleApp9\\classes\\Car.cs",
+              "RelativeDocumentMoniker": "classes\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\ConsoleApp9\\classes\\Car.cs",
+              "RelativeToolTip": "classes\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:54:25.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\ConsoleApp9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\ConsoleApp9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:46:22.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
