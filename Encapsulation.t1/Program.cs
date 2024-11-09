@@ -31,13 +31,11 @@ namespace ConsoleApp9
 
             //minimum 3 Car obyekti yaradırsınız və Gallery`ə əlavə edib methodları yoxlayırsınız.
             Gallery gal1 = new Gallery();
+            int count = 1;
 
-            Car car1 = new Car("BMW");
-            Car car2 = new Car("Mercedes");
-            Car car3 = new Car("Honda");
-            car1.Id = 1;
-            car2.Id = 2;
-            car3.Id = 3;
+            Car car1 = new Car("BMW", ref count);
+            Car car2 = new Car("Mercedes", ref count);
+            Car car3 = new Car("Honda", ref count);
             car1.Speed = 211.4;
             car2.Speed = 203.7;
             car3.Speed = 299.2;
@@ -54,7 +52,7 @@ namespace ConsoleApp9
             if (wanted1 != null) Console.WriteLine(wanted1.CarCode);
             else Console.WriteLine("Bele car obyekti yoxdur");
 
-            var wanted2 = gal1.FindCarByCarCode("HO100");
+            var wanted2 = gal1.FindCarByCarCode("HO1003");
             if (wanted2 != null) Console.WriteLine(wanted2.Name);
             else Console.WriteLine("Bele car obyekti yoxdur");
             foreach (var item in gal1.FindCarsBySpeedInterval(210, 250))

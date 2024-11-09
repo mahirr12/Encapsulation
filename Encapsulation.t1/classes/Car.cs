@@ -8,24 +8,18 @@ namespace ConsoleApp9.classes
 {
     public class Car
     {
-        public int Id { get; set; }
-        private static int count = 1;
+        public int Id { get; private set; }
+
         public string Name { get; set; }
         public double Speed { get; set; }
-        private string _carCode;
-        public string CarCode
-        {
-            get => _carCode;
-            private set
-            {
-                _carCode = "" + char.ToUpper(Name[0]) + char.ToUpper(Name[1]) + (count + 1000);
-            }
-        }
-        public Car(string name)
+
+        public string CarCode { get; private set; }
+        public Car(string name, ref int count)
         {
             Name = name;
-            CarCode = string.Empty;
-            count++;
+            Id = count;
+            CarCode = "" + char.ToUpper(Name[0]) + char.ToUpper(Name[1]) + (count++ + 1000);
+            
         }
     }
 }
